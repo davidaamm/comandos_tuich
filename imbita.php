@@ -14,6 +14,6 @@ $rm = array($r1,$r2,$r3,$r4,$r5,$r6,$r7,$r8,$r9);
  
 $random_keys = array_rand($rm, 1);
  
-echo$rm[$random_keys};
+echo$rm[$random_keys];
  
 ?>
